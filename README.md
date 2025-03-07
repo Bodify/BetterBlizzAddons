@@ -13,5 +13,6 @@
 ![Combat](https://github.com/user-attachments/assets/b1f8f0b1-0fc1-401a-93b0-6639246dea0d)
 ![Pets](https://github.com/user-attachments/assets/c4f86c5e-1dd0-454d-abcd-fb23bf753f4b)
 ![settings](https://github.com/user-attachments/assets/d17842b5-cdce-423f-8b26-dcc9df8901f6)
-[absorbIndicatorswebm.webm](https://github.com/user-attachments/assets/00c185c2-e1ed-42cd-af41-694b70498945)
+![absorbIndicators](https://github.com/user-attachments/assets/00c185c2-e1ed-42cd-af41-694b70498945)
 ![ai](https://github.com/user-attachments/assets/4d01547d-57aa-415f-a073-d1c1a4acc948)
+![instantComboPoints](https://github.com/user-attachments/assets/9a551c2c-9b23-4b5b-abc5-c92be33e42d5)
