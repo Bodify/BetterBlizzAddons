@@ -2,7 +2,7 @@
 ![BBFAuras](https://github.com/user-attachments/assets/08c36881-6496-47b8-834b-56f8f48023cd)
 ![BBPAuras](https://github.com/user-attachments/assets/7fd0e49d-e73d-47ea-8e5c-c2c7bb841ca4)
 ![TotemIndicator](https://github.com/user-attachments/assets/6c3cbd81-451e-4b1b-9986-84e7f3e326d5)
-![ClassIndicators](https://github.com/user-attachments/assets/97c908cd-137e-4f07-a16e-626222012106)
+![ClassIndicators](https://github.com/user-attachments/assets/c334e1f6-b287-458b-a648-c46fa8ea49a4)
 ![NameplateColors](https://github.com/user-attachments/assets/f96c045d-26e2-4783-ace3-b87d4382ccaa)
 ![FontNTexture](https://github.com/user-attachments/assets/f30241c0-c32f-4943-90ea-eefe3989b318)
 ![BBPAuras2](https://github.com/user-attachments/assets/5cdc06c1-8396-4828-8ef3-3115b13e8c69)
