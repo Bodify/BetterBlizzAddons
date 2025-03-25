@@ -18,3 +18,5 @@
 ![settings](https://github.com/user-attachments/assets/d17842b5-cdce-423f-8b26-dcc9df8901f6)
 ![ai](https://github.com/user-attachments/assets/4d01547d-57aa-415f-a073-d1c1a4acc948)
 ![instantComboPoints](https://github.com/user-attachments/assets/9a551c2c-9b23-4b5b-abc5-c92be33e42d5)
+![BBFClassic](https://github.com/user-attachments/assets/cd82c51c-031d-485c-8784-9a7e1bdb612a)
+
