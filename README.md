@@ -5,6 +5,7 @@
 ![BBPPvPAuras2](https://github.com/user-attachments/assets/4ef5492a-372d-488f-9746-ccded823c3c5)
 ![TotemIndicator](https://github.com/user-attachments/assets/6c3cbd81-451e-4b1b-9986-84e7f3e326d5)
 ![ClassIndicators](https://github.com/user-attachments/assets/c334e1f6-b287-458b-a648-c46fa8ea49a4)
+![PinMode](https://github.com/user-attachments/assets/b80d27e8-07f6-4d7d-a1ca-071c717a3ab0)
 ![NameplateColors](https://github.com/user-attachments/assets/f96c045d-26e2-4783-ace3-b87d4382ccaa)
 ![FontNTexture](https://github.com/user-attachments/assets/f30241c0-c32f-4943-90ea-eefe3989b318)
 ![BBPAuras2](https://github.com/user-attachments/assets/5cdc06c1-8396-4828-8ef3-3115b13e8c69)
