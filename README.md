@@ -20,3 +20,4 @@
 ![instantComboPoints](https://github.com/user-attachments/assets/9a551c2c-9b23-4b5b-abc5-c92be33e42d5)
 ![BBFClassic](https://github.com/user-attachments/assets/cd82c51c-031d-485c-8784-9a7e1bdb612a)
 ![ClassPetIndicatorPlusCC](https://github.com/user-attachments/assets/224fc2e1-54ab-49c0-a366-5746cd58778f)
+![ClickArea](https://github.com/user-attachments/assets/4da8ac5d-2d50-421c-9aa6-3893e85216f9)
