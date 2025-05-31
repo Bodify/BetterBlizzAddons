@@ -22,3 +22,5 @@
 ![ClassPetIndicatorPlusCC](https://github.com/user-attachments/assets/224fc2e1-54ab-49c0-a366-5746cd58778f)
 ![ClickArea](https://github.com/user-attachments/assets/4da8ac5d-2d50-421c-9aa6-3893e85216f9)
 ![sarenass](https://github.com/user-attachments/assets/ee726b98-c989-4b2c-b822-7b2ba322ad5b)
+![interruptedloc](https://github.com/user-attachments/assets/f2767711-ee6b-4582-84c5-040984a61580)
+![silenced+loc](https://github.com/user-attachments/assets/7a41484a-4414-4498-9069-ca28ec933c26)
