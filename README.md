@@ -25,4 +25,4 @@
 ![interruptedloc](https://github.com/user-attachments/assets/f2767711-ee6b-4582-84c5-040984a61580)
 ![silenced+loc](https://github.com/user-attachments/assets/7a41484a-4414-4498-9069-ca28ec933c26)
 ![sArenaPixelated](https://github.com/user-attachments/assets/39acce3d-e826-41f6-b89f-0c069be6b689)
-![image](https://github.com/user-attachments/assets/785115d7-4ebb-4e02-bf94-969cb5116b4f)
+![image](https://github.com/user-attachments/assets/447b2a83-8413-4480-813d-c798d07c1aba)
