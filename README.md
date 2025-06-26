@@ -24,5 +24,6 @@
 ![sarenass](https://github.com/user-attachments/assets/ee726b98-c989-4b2c-b822-7b2ba322ad5b)
 ![interruptedloc](https://github.com/user-attachments/assets/f2767711-ee6b-4582-84c5-040984a61580)
 ![silenced+loc](https://github.com/user-attachments/assets/7a41484a-4414-4498-9069-ca28ec933c26)
+![LossOfControl](https://github.com/user-attachments/assets/dc4d1db4-c312-441f-9d38-3168b4faa81d)
 ![sArenaPixelated](https://github.com/user-attachments/assets/39acce3d-e826-41f6-b89f-0c069be6b689)
 ![image](https://github.com/user-attachments/assets/447b2a83-8413-4480-813d-c798d07c1aba)
