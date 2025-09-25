@@ -27,3 +27,5 @@
 ![LossOfControl](https://github.com/user-attachments/assets/dc4d1db4-c312-441f-9d38-3168b4faa81d)
 ![sArenaPixelated](https://github.com/user-attachments/assets/39acce3d-e826-41f6-b89f-0c069be6b689)
 ![image](https://github.com/user-attachments/assets/447b2a83-8413-4480-813d-c798d07c1aba)
+![sArenaOld](https://github.com/user-attachments/assets/2fd50212-41ee-4446-837c-1667abc1caf1)
+![sArenaNew](https://github.com/user-attachments/assets/3e9b03f0-de58-4862-b866-5b8f2c246164)
