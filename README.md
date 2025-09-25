@@ -29,3 +29,4 @@
 ![image](https://github.com/user-attachments/assets/447b2a83-8413-4480-813d-c798d07c1aba)
 ![sArenaOld](https://github.com/user-attachments/assets/2fd50212-41ee-4446-837c-1667abc1caf1)
 ![sArenaNew](https://github.com/user-attachments/assets/3e9b03f0-de58-4862-b866-5b8f2c246164)
+![healerStacking](https://github.com/user-attachments/assets/1f239ae9-73f1-4a46-a15c-17b772139c8f)
