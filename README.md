@@ -32,3 +32,6 @@
 ![healerStacking](https://github.com/user-attachments/assets/1f239ae9-73f1-4a46-a15c-17b772139c8f)
 ![sArenaSettings](https://github.com/user-attachments/assets/21d9651f-e8f9-4081-a8ee-e55ea852f91d)
 ![sArenaCompact](https://github.com/user-attachments/assets/01f58f76-048b-4ed2-87a6-c23f2a03fd1c)
+![bbfPixelBorder](https://github.com/user-attachments/assets/1aba9f16-2fcf-4d59-8d43-a87924e9aa98)
+![bbfPixelBorder](https://github.com/user-attachments/assets/d538aa2d-7e92-4b05-9557-c42acec1e7be)
+![bbfNoPortrait](https://github.com/user-attachments/assets/37467a5c-6bde-4357-89f9-32b532a1ecb5)
