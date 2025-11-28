@@ -1,4 +1,5 @@
 # BetterBlizzAddons
+- Image dump
 ![BBFAuras](https://github.com/user-attachments/assets/08c36881-6496-47b8-834b-56f8f48023cd)
 ![BBPAuras](https://github.com/user-attachments/assets/7fd0e49d-e73d-47ea-8e5c-c2c7bb841ca4)
 ![BBPPvPAuras](https://github.com/user-attachments/assets/b54f7032-e9ad-491d-a931-37d128e0ee73)
@@ -35,3 +36,13 @@
 ![bbfPixelBorder](https://github.com/user-attachments/assets/1aba9f16-2fcf-4d59-8d43-a87924e9aa98)
 ![bbfPixelBorder](https://github.com/user-attachments/assets/d538aa2d-7e92-4b05-9557-c42acec1e7be)
 ![bbfNoPortrait](https://github.com/user-attachments/assets/37467a5c-6bde-4357-89f9-32b532a1ecb5)
+![bbfPartyCastbars](https://github.com/user-attachments/assets/e56a1521-c8b2-4842-aa22-d59a46211292)
+![bbfArenaNames1](https://github.com/user-attachments/assets/63fb0733-4908-4920-87bb-e5c8e7f722f0)
+![bbfArenaNames2](https://github.com/user-attachments/assets/3d1d0aa5-2126-442e-81bd-e8b47ad944e9)
+![bbfCombatAndAbsorb](https://github.com/user-attachments/assets/79fddb2a-a63d-44dd-9fcd-3294534510dc)
+![bbfDefault](https://github.com/user-attachments/assets/e029d840-babb-4824-96dd-51b8975c89c5)
+![bbfStandard](https://github.com/user-attachments/assets/2f584463-8b14-413f-ac9e-cc7fe6f8937e)
+![bbfSettings](https://github.com/user-attachments/assets/6551731a-faab-40f3-ad74-7a415f75442a)
+![bbfCastbarSettings](https://github.com/user-attachments/assets/c36ee356-b785-4fd4-ba1d-4fb357d7228a)
+![bbfAurasSettings](https://github.com/user-attachments/assets/bc5f3b05-f387-4247-b823-45d0819d81ff)
+
